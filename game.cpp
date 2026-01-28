@@ -1,4 +1,3 @@
-cpp
 #include "game.h"
 #include <iostream>
 #include <cstdlib>
